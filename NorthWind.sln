@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthWind.IoC", "NorthWind.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthWind.Core", "NorthWind.Core\NorthWind.Core.csproj", "{ADA97AAB-C10E-45D7-986E-BD7EBE2518F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFApp", "WPFApp\WPFApp.csproj", "{45FAB017-B1AE-493A-A479-957B0342A65C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{ADA97AAB-C10E-45D7-986E-BD7EBE2518F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADA97AAB-C10E-45D7-986E-BD7EBE2518F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADA97AAB-C10E-45D7-986E-BD7EBE2518F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45FAB017-B1AE-493A-A479-957B0342A65C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45FAB017-B1AE-493A-A479-957B0342A65C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45FAB017-B1AE-493A-A479-957B0342A65C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45FAB017-B1AE-493A-A479-957B0342A65C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
